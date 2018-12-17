@@ -67,3 +67,6 @@ string facename = "Tahoma"
 string text = "Ok"
 end type
 
+event clicked;close(parent)
+end event
+
